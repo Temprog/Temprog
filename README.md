@@ -1,15 +1,15 @@
 # Hi, I am **Temi** 👋
 
-🎓 **MSc in Computer Science**  
-🌐 Bridging research, development, and deployment for maximum impact  
+🎓 **MSc in AI Technology**  
+🌐 Bridging research, development and deployment for maximum impact  
 
-💻 **Machine Learning | Data Science | Software & Full-stack Development | AI for Security | Cloud (AWS EC2)**
+💻 **Machine Learning | Software & Full-stack Development | Data Science | Cloud (AWS EC2)**
 
 ---
 
-🚀 I build **production-ready ML systems**, deploy AI solutions via APIs and web interfaces, and deliver **scalable real-world applications**.  
+- I build **production-ready ML systems**, deploy AI solutions via APIs and web interfaces, and deliver **scalable real-world applications**.  
 
-🔒 Proven expertise in applying **AI** to security challenges, leveraging **NLP and LLMs** for data analysis, and building **production-ready ML models**.
+- Proven expertise in applying **AI** to security challenges, leveraging **NLP and LLMs** for data analysis. 
 
 ---
 
