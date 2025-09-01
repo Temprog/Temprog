@@ -37,7 +37,7 @@
 
 ---
 
-### 🔹 [ML Model API Deployment](https://github.com/Temprog/Stacker6X-API)
+### 🔹 [ML Model API Deployment for Stacker6X](https://github.com/Temprog/Stacker6X-API)
 *Deployed trained ML models via a REST API with a simple Web UI.*  
 
 - Wrapped ML models in a **REST API/Flask** service for real-time predictions.  
