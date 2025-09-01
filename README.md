@@ -26,6 +26,16 @@
 
 ---
 
+### 🔹 [ML Model API Deployment for Stacker6X](https://github.com/Temprog/Stacker6X-API)
+*Deployed trained ML models via a REST API with a simple Web UI.*  
+
+- Wrapped ML models in a **REST API/Flask** service for real-time predictions.  
+- Integrated with a **Web UI** for user-friendly sentiment classification.  
+- Demonstrated full pipeline from **model training → API → deployment**, bridging data science and software engineering.
+- Tech: *Python, Flask, REST API, AWS EC2, Gunicorn, Nginx, JSON, Scikit-learn, Regex* 
+
+---
+
 ### 🔹 [NLP-Powered Sentiment Analysis](https://github.com/Temprog/Twitter-Sentiment-Analysis-NLP)
 *A scalable NLP pipeline for classifying sentiment in large datasets of tweets and customer reviews.*
 
@@ -34,16 +44,6 @@
 - Achieved a **best accuracy of ~80%** and visualized performance with **Matplotlib + Seaborn** in Google Colab.
 - Capable of processing **large datasets** to categorize feedback as **positive, negative, or neutral**, providing actionable insights.
 - Tech: *Python, pandas, numpy, re, NLTK, vaderSentiment, WordCloud, TensorFlow, scikit-learn, Tweepy, Matplotlib, Seaborn, PIL (Pillow)*
-
----
-
-### 🔹 [ML Model API Deployment for Stacker6X](https://github.com/Temprog/Stacker6X-API)
-*Deployed trained ML models via a REST API with a simple Web UI.*  
-
-- Wrapped ML models in a **REST API/Flask** service for real-time predictions.  
-- Integrated with a **Web UI** for user-friendly sentiment classification.  
-- Demonstrated full pipeline from **model training → API → deployment**, bridging data science and software engineering.
-- Tech: *Python, Flask, REST API, AWS EC2, Gunicorn, Nginx, JSON, Scikit-learn, Regex* 
 
 ---
 
