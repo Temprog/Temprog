@@ -7,7 +7,7 @@
 
 ---
 
-- I build **production-ready ML systems**, deploy AI solutions via APIs and web interfaces, and deliver **scalable real-world applications**.  
+- I build **production-ready ML systems**, deploy AI solutions via APIs and web interfaces and deliver **scalable real-world applications**.  
 
 - Proven expertise in applying **AI** to security challenges, leveraging **NLP and LLMs** for data analysis. 
 
