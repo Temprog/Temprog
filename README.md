@@ -17,7 +17,7 @@
 
 ### 🔹 [Stacker6X: AI-based Security Model for SQLI & XSS Detection](https://github.com/Temprog/Stacker6X-Model)
   *Detects malicious web payloads (**SQLI & XSS**) using ML to improve web application security.*
-🔗 [Live Web UI](https://api.stacker6x.com) 
+🔗 [Demo Live Web UI](https://api.stacker6x.com) 
 
 - Built a complete ML pipeline: data preprocessing → feature engineering → model training → evaluation → deployment.
 - Developed **novel Stacker6X ensemble model** → achieved **98% accuracy**
@@ -26,8 +26,8 @@
 
 ---
 
-### 🔹 [ML Model API Deployment for Stacker6X](https://github.com/Temprog/Stacker6X-API)
-*Deployed trained ML models via a REST API with a simple Web UI.*  
+### 🔹 [Stacker6X-API (Backend (Flask REST API) ML Model API Deployment for Stacker6X](https://github.com/Temprog/Stacker6X-API)
+*Deployed trained Stacker6X ML models via a REST API with a simple Web UI.*  
 
 - Wrapped ML models in a **REST API/Flask** service for real-time predictions.  
 - Integrated with a **Web UI** for user-friendly sentiment classification.  
