@@ -15,10 +15,10 @@
 
 ## 📁 Featured Projects  
 
-### 🔹 [Stacker6X: AI-based Security Model for SQLI & XSS Detection](https://github.com/Temprog/Stacker6X-Model)
+### 🔹 [Stacker6X (Core/ML): AI-based Security Model for SQLI & XSS Detection](https://github.com/Temprog/Stacker6X-Model)
   *Detects malicious web payloads (**SQLI & XSS**) using ML to improve web application security.*
-🔗 [Demo Live Web UI](https://api.stacker6x.com) 
-
+  
+🔗 [Live Deployment (via API & App)](https://api.stacker6x.com) 
 - Built a complete ML pipeline: data preprocessing → feature engineering → model training → evaluation → deployment.
 - Developed **novel Stacker6X ensemble model** → achieved **98% accuracy**
 - Deployed on **AWS EC2** as a production-ready app for real-time prediction and payload classification with REST API serving the model and a web UI for users to test for malicious code.
@@ -26,7 +26,20 @@
 
 ---
 
-### 🔹 [Stacker6X-API (Backend (Flask REST API) ML Model API Deployment for Stacker6X](https://github.com/Temprog/Stacker6X-API)
+### 🔹 [Stacker6X-App (Web UI for interacting with the Stacker6X API)](https://github.com/Temprog/Stacker6X-App)  
+  *Deployed application on AWS EC2 via a REST API with a simple Web UI, serving real-time predictions through the Stacker6X security model.*
+  
+  🔗 [Live App](https://api.stacker6x.com)
+  
+- Built a **lightweight web interface (HTML, CSS, JavaScript)** for interacting with the Stacker6X API.  
+- Enabled users to **input text/code or upload payload files** for real-time classification (SQLi, XSS, Benign).  
+- Connected seamlessly to the **Flask REST API backend** hosted on AWS EC2.  
+- Showcased end-to-end integration of **ML → API → Web UI**, demonstrating usability for both technical and non-technical users.  
+- Tech: *HTML, CSS, JavaScript (Fetch API, FileReader API), JSON*
+
+---
+
+### 🔹 [Stacker6X-API (Backend - Flask REST API)](https://github.com/Temprog/Stacker6X-API)
 *Deployed trained Stacker6X ML models via a REST API with a simple Web UI.*  
 
 - Wrapped ML models in a **REST API/Flask** service for real-time predictions.  
