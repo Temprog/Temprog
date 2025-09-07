@@ -9,14 +9,14 @@
 
 - I build **production-ready ML systems**, deploy AI solutions via APIs and web interfaces and deliver **scalable real-world applications**.  
 
-- Proven expertise in applying **AI** to security challenges, leveraging **NLP and LLMs** for data analysis. 
+- Proven expertise in applying **AI** to web security challenges and leveraging **NLP and LLMs** for data analysis. 
 
 ---
 
 ## 📁 Featured Projects  
 
 ### 🔹 [Stacker6X (Core/ML): AI-based Security Model for SQLI & XSS Detection](https://github.com/Temprog/Stacker6X-Model)
-  *Detects malicious web payloads (**SQLI & XSS**) using ML to improve web application security.*
+  *Enhances web application security by detecting malicious web payloads & attacks (**SQLI & XSS**) with Machine Learning models*
   
 🔗 [Live Deployment (via API & App)](https://api.stacker6x.com) 
 - Built a complete ML pipeline: data preprocessing → feature engineering → model training → evaluation → deployment.
