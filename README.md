@@ -5,7 +5,7 @@
 
 💻 **Machine Learning | Software & Full-stack Development | Data Science | Cloud (AWS EC2)**
 
----
+--- 
 
 - I build **production-ready ML systems**, deploy AI solutions via APIs and web interfaces and deliver **scalable real-world applications**.  
 
@@ -49,10 +49,11 @@
 
 ---
 
-### 🔹 [NLP-Powered Sentiment Analysis](https://github.com/Temprog/Twitter-Sentiment-Analysis-NLP)
-*A scalable NLP pipeline for classifying sentiment in large datasets of tweets and customer reviews.*
+### 🔹 [Twitter Sentiment Analysis & Prediction with GenAI Reporting](https://github.com/Temprog/Twitter-Sentiment-Analysis-Insights-NLP-GenAI/tree/main)
+*Scalable NLP pipeline for sentiment classification across large datasets of tweets and customer reviews, enhanced with GenAI-driven thematic synthesis.*
 
-- Built an **NLP pipeline** to classify sentiment in tweets and customer reviews.  
+- Built an **NLP pipeline** to classify sentiment in tweets and customer reviews.
+- Integrated **Google Gemini GenAI** to generate automated theme summaries and comprehensive narrative reports
 - Used **NLTK + TF-IDF + ML models** (LogReg, SVM, Naive Bayes, Random Forest, Gradient Boosting).  
 - Achieved a **best accuracy of ~80%** and visualized performance with **Matplotlib + Seaborn** in Google Colab.
 - Capable of processing **large datasets** to categorize feedback as **positive, negative, or neutral**, providing actionable insights.
