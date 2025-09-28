@@ -52,12 +52,12 @@
 ### 🔹 [Twitter Sentiment Analysis & Prediction with GenAI Reporting](https://github.com/Temprog/Twitter-Sentiment-Analysis-Insights-NLP-GenAI/tree/main)
 *Scalable NLP pipeline for sentiment classification across large datasets of tweets and customer reviews, enhanced with GenAI-driven thematic synthesis.*
 
-- Built an **NLP pipeline** to classify sentiment in tweets and customer reviews.
+- Built an **NLP pipeline** to classify sentiments in tweets and customer reviews.
 - Integrated **Google Gemini GenAI** to generate automated theme summaries and comprehensive narrative reports
 - Used **NLTK + TF-IDF + ML models** (LogReg, SVM, Naive Bayes, Random Forest, Gradient Boosting).  
 - Achieved a **best accuracy of ~80%** and visualized performance with **Matplotlib + Seaborn** in Google Colab.
 - Capable of processing **large datasets** to categorize feedback as **positive, negative, or neutral**, providing actionable insights.
-- Tech: *Python, pandas, numpy, re, NLTK, vaderSentiment, WordCloud, TensorFlow, scikit-learn, Tweepy, Matplotlib, Seaborn, PIL (Pillow)*
+- Tech: *Python, pandas, numpy, re, NLTK, vaderSentiment, WordCloud, Gemini, TensorFlow, scikit-learn, Tweepy, Matplotlib, Seaborn, PIL (Pillow)*
 
 ---
 
@@ -85,6 +85,7 @@
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/Seaborn-268BD2?style=for-the-badge&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=plotly&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)
 
 <!-- Cloud & Tools -->
 ![AWS EC2](https://img.shields.io/badge/AWS_EC2-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
