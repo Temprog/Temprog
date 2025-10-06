@@ -49,8 +49,10 @@
 
 ---
 
-### 🔹 [Serverless GenAI Chatbot using Amazon Bedrock & AWS Lambda](backend/lambda_function.py)
+### 🔹 [Serverless GenAI Chatbot using Amazon Bedrock & AWS Lambda](https://github.com/Temprog/GenAI_aws_bedrock)
 *LLM-powered chatbot built with Amazon Bedrock, deployed serverlessly via AWS Lambda, API Gateway and S3 for scalable and efficient text generation.*
+
+ 🔗 [Live App](http://genai-webui.com.s3-website.eu-north-1.amazonaws.com/)
 
 - Designed and deployed a serverless GenAI chatbot architecture using Amazon Bedrock (Titan Text) for intelligent, context-aware text generation.
 - Integrated AWS Lambda, API Gateway, and S3 for seamless backend automation and a responsive web-based frontend.
