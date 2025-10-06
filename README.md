@@ -49,6 +49,17 @@
 
 ---
 
+### 🔹 [Serverless GenAI Chatbot using Amazon Bedrock & AWS Lambda[()
+*LLM-powered chatbot built with Amazon Bedrock, deployed serverlessly via AWS Lambda, API Gateway and S3 for scalable and efficient text generation.*
+
+- Designed and deployed a serverless GenAI chatbot architecture using Amazon Bedrock (Titan Text) for intelligent, context-aware text generation.
+- Integrated AWS Lambda, API Gateway, and S3 for seamless backend automation and a responsive web-based frontend.
+- Secured infrastructure with IAM roles and policies, and implemented persistent data storage and logging with Amazon RDS.
+- Configured CORS and RESTful integrations via API Gateway for reliable cross-service communication.
+- Tech: *Python, boto3, pymysql, Amazon Bedrock, AWS Lambda, API Gateway, Amazon RDS, Amazon S3, IAM, HTML, JavaScript*
+
+---
+
 ### 🔹 [Twitter Sentiment Analysis & Prediction with GenAI Reporting](https://github.com/Temprog/Twitter-Sentiment-Analysis-Insights-NLP-GenAI/tree/main)
 *Scalable NLP pipeline for sentiment classification across large datasets of tweets and customer reviews, enhanced with GenAI-driven thematic synthesis.*
 
@@ -86,6 +97,10 @@
 ![Seaborn](https://img.shields.io/badge/Seaborn-268BD2?style=for-the-badge&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=plotly&logoColor=white)
 ![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![Amazon Bedrock](https://img.shields.io/badge/Amazon%20Bedrock-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![LLM](https://img.shields.io/badge/LLM-4B0082?style=for-the-badge&logo=openai&logoColor=white)
+![Generative AI](https://img.shields.io/badge/Generative%20AI-800080?style=for-the-badge&logo=spring&logoColor=white)
+
 
 <!-- Cloud & Tools -->
 ![AWS EC2](https://img.shields.io/badge/AWS_EC2-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
@@ -93,6 +108,15 @@
 ![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 ![Gunicorn](https://img.shields.io/badge/Gunicorn-499848?style=for-the-badge&logo=gunicorn&logoColor=white)
+![AWS Lambda](https://img.shields.io/badge/AWS%20Lambda-FF9900?style=for-the-badge&logo=awslambda&logoColor=white)
+![Amazon RDS](https://img.shields.io/badge/Amazon%20RDS-527FFF?style=for-the-badge&logo=amazonrds&logoColor=white)
+![Amazon S3](https://img.shields.io/badge/Amazon%20S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white)
+![API Gateway](https://img.shields.io/badge/AWS%20API%20Gateway-FF4F8B?style=for-the-badge&logo=amazonaws&logoColor=white)
+![IAM](https://img.shields.io/badge/AWS%20IAM-DD344C?style=for-the-badge&logo=amazonaws&logoColor=white)
+
+<!-- Version Control -->
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
 
 ---
 
