@@ -3,13 +3,13 @@
 🎓 **MSc in AI Technology**  
 🌐 Bridging research, development and deployment for maximum impact  
 
-💻 **Machine Learning | Software & Full-stack Development | Data Science | Cloud (AWS EC2)**
+💻 **AI Engineering | Machine Learning | Full-stack Development | Data Science | Cloud**
 
 --- 
 
-- I build **production-ready ML systems**, deploy AI solutions via APIs and web interfaces and deliver **scalable real-world applications**.  
-
-- Proven expertise in applying **AI** to web security challenges and leveraging **NLP and LLMs** for data analysis. 
+- I design and build intelligent applications that combine software engineering best practices with modern AI techniques, from data processing and machine learning to Retrieval-Augmented Generation (RAG) and LLM-powered solutions.
+- With 10+ years of software development experience and a Master's in AI Technology, I enjoy transforming ideas into scalable, user-focused applications through experimentation, rapid prototyping and deployment.
+- My interests include Generative AI, NLP, RAG systems, AI-powered applications, MLOps, cloud deployment and applied machine learning in regulated and real-world environments.
 
 ---
 
