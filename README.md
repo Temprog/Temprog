@@ -21,11 +21,9 @@
 - Ingested FCA regulatory guidance → generated embeddings → stored vectors in ChromaDB → retrieved relevant context → generated grounded responses with citations.
 - Implemented semantic search, retrieval evaluation scoring, audit logging and safety guardrails to support explainable AI in regulated environments.
 - Developed an interactive Streamlit application with configurable OpenAI and HuggingFace backends.
-
 - Tech: *Python, LangChain, ChromaDB, Streamlit, OpenAI, HuggingFace, Vector Embeddings, RAG, Generative AI*
  
 ---
-
 
 ### 🔹 [Stacker6X (Core/ML): AI-based Security Model for SQLI & XSS Detection](https://github.com/Temprog/Stacker6X-Model)
   *Enhances web application security by detecting malicious web payloads & attacks (**SQLI & XSS**) with Machine Learning models*
