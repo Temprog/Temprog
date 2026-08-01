@@ -64,7 +64,7 @@
 
  🔗 [Live App](http://genai-webui.com.s3-website.eu-north-1.amazonaws.com/)
 
-- Designed and deployed a serverless GenAI chatbot architecture using Amazon Bedrock (Titan Text) for intelligent, context-aware text generation.
+- Designed and deployed a serverless GenAI chatbot architecture using Amazon Bedrock (Titan Text/Claude) for intelligent, context-aware text generation.
 - Integrated AWS Lambda, API Gateway, and S3 for seamless backend automation and a responsive web-based frontend.
 - Secured infrastructure with IAM roles and policies, and implemented persistent data storage and logging with Amazon RDS.
 - Configured CORS and RESTful integrations via API Gateway for reliable cross-service communication.
